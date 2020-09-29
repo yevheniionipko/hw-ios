@@ -1,0 +1,68 @@
+//
+//  SwiftRobotControlCenter.swift
+//  MyRobot
+//
+//  Created by Ivan Vasilevich on 10/4/14.
+//  Copyright (c) 2014 Ivan Besarab. All rights reserved.
+//
+
+import UIKit
+//  All robot commands can be founded in GameViewController.h
+class SwiftRobotControlCenter: RobotControlCenter {
+
+    //  Level name setup
+    override func viewDidLoad() {
+        levelName = "L3C" //  Level name
+        super.viewDidLoad()
+    }
+
+	override func run() {
+        moveIfCan()
+        turnRight()
+        while frontIsClear {
+            moveToPeak()
+            moveAroundPeak()
+            moveIfCan()
+            turnRight()
+            moveIfCan()
+            turnRight()
+        }
+	}
+
+    func go() -> Void {
+
+    }
+
+    func moveIfCan() -> Void {
+        while frontIsClear {
+            move()
+        }
+    }
+
+    func moveToPeak() -> Void {
+        while leftIsBlocked, frontIsClear {
+            move()
+        }
+    }
+
+    func moveAroundPeak() -> Void {
+        if frontIsBlocked, leftIsBlocked{
+            return
+        }
+        turnLeft()
+        move()
+        turnLeft()
+    }
+
+    func turnLeft() -> Void {
+        for _ in 0...2 {
+            turnRight()
+        }
+    }
+
+    func turnBack() -> Void {
+        turnRight()
+        turnRight()
+    }
+
+}
