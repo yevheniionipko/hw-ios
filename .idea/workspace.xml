@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00e3434e-1abf-4c45-bf96-5672f332330a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoffeMachine/CoffeMachine.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoffeMachine/CoffeMachine.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoffeMachine/CoffeMachine.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoffeMachine/CoffeMachine.xcodeproj/project.xcworkspace/xcuserdata/onipkojenya.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoffeMachine/CoffeMachine.xcodeproj/xcuserdata/onipkojenya.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoffeMachine/CoffeMachine/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoffeMachine/CoffeMachine/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoffeMachine/CoffeMachine/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoffeMachine/CoffeMachine/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoffeMachine/CoffeMachine/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoffeMachine/CoffeMachine/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoffeMachine/CoffeMachine/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoffeMachine/CoffeMachine/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoffeMachine/CoffeMachine/ViewController.swift" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601392287468</updated>
       <workItem from="1601392288571" duration="2235000" />
+      <workItem from="1602691636460" duration="340000" />
     </task>
     <servers />
   </component>
