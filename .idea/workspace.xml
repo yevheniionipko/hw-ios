@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00e3434e-1abf-4c45-bf96-5672f332330a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CoffeMachine/CoffeMachine.xcodeproj/project.pbxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoffeMachine/CoffeMachine.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoffeMachine/CoffeMachine.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoffeMachine/CoffeMachine.xcodeproj/project.xcworkspace/xcuserdata/onipkojenya.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoffeMachine/CoffeMachine.xcodeproj/xcuserdata/onipkojenya.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoffeMachine/CoffeMachine/AppDelegate.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoffeMachine/CoffeMachine/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoffeMachine/CoffeMachine/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoffeMachine/CoffeMachine/Assets.xcassets/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoffeMachine/CoffeMachine/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoffeMachine/CoffeMachine/Base.lproj/Main.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoffeMachine/CoffeMachine/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoffeMachine/CoffeMachine/SceneDelegate.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoffeMachine/CoffeMachine/ViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoffeMachine/CoffeMachine.xcodeproj/project.xcworkspace/xcuserdata/onipkojenya.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/CoffeMachine/CoffeMachine.xcodeproj/project.xcworkspace/xcuserdata/onipkojenya.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +30,14 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mobile" />
+      <recent name="$PROJECT_DIR$/ios2409wa-g82_Onipko_HW4" />
+      <recent name="$PROJECT_DIR$/hw4" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,7 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601392287468</updated>
       <workItem from="1601392288571" duration="2235000" />
-      <workItem from="1602691636460" duration="340000" />
+      <workItem from="1602691636460" duration="1448000" />
     </task>
     <servers />
   </component>
