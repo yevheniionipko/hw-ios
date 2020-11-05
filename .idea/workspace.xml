@@ -2,21 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00e3434e-1abf-4c45-bf96-5672f332330a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/randomApp/randomApp.xcodeproj/project.pbxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/randomApp/randomApp.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/randomApp/randomApp.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/randomApp/randomApp.xcodeproj/project.xcworkspace/xcuserdata/onipkojenya.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/randomApp/randomApp.xcodeproj/xcuserdata/onipkojenya.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/randomApp/randomApp/AppDelegate.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/randomApp/randomApp/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/randomApp/randomApp/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/randomApp/randomApp/Assets.xcassets/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/randomApp/randomApp/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/randomApp/randomApp/Base.lproj/Main.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/randomApp/randomApp/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/randomApp/randomApp/SceneDelegate.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/randomApp/randomApp/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tableApp/tableApp.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tableApp/tableApp.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tableApp/tableApp.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tableApp/tableApp.xcodeproj/project.xcworkspace/xcuserdata/onipkojenya.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tableApp/tableApp.xcodeproj/xcuserdata/onipkojenya.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tableApp/tableApp/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tableApp/tableApp/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tableApp/tableApp/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tableApp/tableApp/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tableApp/tableApp/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tableApp/tableApp/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tableApp/tableApp/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tableApp/tableApp/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tableApp/tableApp/StudentTableViewCell.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tableApp/tableApp/ViewController.swift" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/randomApp/randomApp.xcodeproj/project.xcworkspace/xcuserdata/onipkojenya.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/randomApp/randomApp.xcodeproj/project.xcworkspace/xcuserdata/onipkojenya.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +65,7 @@
       <workItem from="1602691636460" duration="1448000" />
       <workItem from="1603819400832" duration="407000" />
       <workItem from="1603869227135" duration="1000" />
+      <workItem from="1604596001757" duration="312000" />
     </task>
     <servers />
   </component>
