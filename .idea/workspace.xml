@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00e3434e-1abf-4c45-bf96-5672f332330a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/randomApp/randomApp.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomApp/randomApp.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomApp/randomApp.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomApp/randomApp.xcodeproj/project.xcworkspace/xcuserdata/onipkojenya.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomApp/randomApp.xcodeproj/xcuserdata/onipkojenya.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomApp/randomApp/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomApp/randomApp/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomApp/randomApp/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomApp/randomApp/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomApp/randomApp/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomApp/randomApp/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomApp/randomApp/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomApp/randomApp/SceneDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomApp/randomApp/ViewController.swift" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoffeMachine/CoffeMachine.xcodeproj/project.xcworkspace/xcuserdata/onipkojenya.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/CoffeMachine/CoffeMachine.xcodeproj/project.xcworkspace/xcuserdata/onipkojenya.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +61,8 @@
       <updated>1601392287468</updated>
       <workItem from="1601392288571" duration="2235000" />
       <workItem from="1602691636460" duration="1448000" />
+      <workItem from="1603819400832" duration="407000" />
+      <workItem from="1603869227135" duration="1000" />
     </task>
     <servers />
   </component>
